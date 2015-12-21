@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\User\Desktop\tp-labo-micro\CodigoQtouch\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\User\Desktop\tp-labo-micro\CodigoQtouch\CodigoQtouch.hex" -d "C:\Users\User\Desktop\tp-labo-micro\CodigoQtouch\CodigoQtouch.obj" -e "C:\Users\User\Desktop\tp-labo-micro\CodigoQtouch\CodigoQtouch.eep" -m "C:\Users\User\Desktop\tp-labo-micro\CodigoQtouch\CodigoQtouch.map" "C:\Users\User\Desktop\tp-labo-micro\CodigoQtouch\CodigoQtouch.asm"

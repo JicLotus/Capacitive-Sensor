@@ -1,0 +1,130 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega88</DEVICE>
+ <WORKING_DIR>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m88def.inc</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\InterruptVectors.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Definitions.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Carga.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Descarga.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Estados.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Comparator.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\PuertoSerie.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer1.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Estado_Anterior_Cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>18</LINE></Estado_Anterior_Cap1>
+  <Estado_Actual_Cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>19</LINE></Estado_Actual_Cap1>
+  <Estado_Anterior_Cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>20</LINE></Estado_Anterior_Cap2>
+  <Estado_Actual_Cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>21</LINE></Estado_Actual_Cap2>
+  <Flags_Estado><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>22</LINE></Flags_Estado>
+  <RESET><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>48</LINE></RESET>
+  <TIM1_CAPT><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer1.asm</FILE><LINE>103</LINE></TIM1_CAPT>
+  <ANA_COMP><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Comparator.asm</FILE><LINE>77</LINE></ANA_COMP>
+  <carga><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Carga.asm</FILE><LINE>10</LINE></carga>
+  <Estado1YEstado2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Carga.asm</FILE><LINE>16</LINE></Estado1YEstado2>
+  <estado1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Estados.asm</FILE><LINE>10</LINE></estado1>
+  <estado2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Estados.asm</FILE><LINE>23</LINE></estado2>
+  <descarga><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Descarga.asm</FILE><LINE>9</LINE></descarga>
+  <estado3><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Estados.asm</FILE><LINE>35</LINE></estado3>
+  <delay><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>14</LINE></delay>
+  <setear_puerto_drive><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>1</LINE></setear_puerto_drive>
+  <setear_sentido_drive><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>20</LINE></setear_sentido_drive>
+  <SetUpPorts><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>7</LINE></SetUpPorts>
+  <initial_setup><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>17</LINE></initial_setup>
+  <descargar_capacitores><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>162</LINE></descargar_capacitores>
+  <PWM_setup><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE><LINE>7</LINE></PWM_setup>
+  <Comparator_Initialize><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Comparator.asm</FILE><LINE>18</LINE></Comparator_Initialize>
+  <PuertoSerie_initialize><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\PuertoSerie.asm</FILE><LINE>4</LINE></PuertoSerie_initialize>
+  <Timer_Initialize><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer.asm</FILE><LINE>9</LINE></Timer_Initialize>
+  <limpiar_puerto_drive><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>10</LINE></limpiar_puerto_drive>
+  <calibrar_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>85</LINE></calibrar_cap2>
+  <calibrado_manual_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>117</LINE></calibrado_manual_cap2>
+  <fin_calibrado><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>111</LINE></fin_calibrado>
+  <reemplazar_referencia><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>107</LINE></reemplazar_referencia>
+  <fin_calibrado_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>120</LINE></fin_calibrado_cap2>
+  <calibrar_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>125</LINE></calibrar_cap1>
+  <calibrado_manual_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>152</LINE></calibrado_manual_cap1>
+  <fin_calibrado_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>145</LINE></fin_calibrado_cap1>
+  <reemplazar_referencia_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>143</LINE></reemplazar_referencia_cap1>
+  <calibrado_finalizado_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SetUp.asm</FILE><LINE>155</LINE></calibrado_finalizado_cap1>
+  <Comparator_Enable><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Comparator.asm</FILE><LINE>51</LINE></Comparator_Enable>
+  <limpiar_sentido_drive><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>29</LINE></limpiar_sentido_drive>
+  <Timer_Start><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer.asm</FILE><LINE>29</LINE></Timer_Start>
+  <delay1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>19</LINE></delay1>
+  <delay2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>22</LINE></delay2>
+  <delay3><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>25</LINE></delay3>
+  <mini_delay><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>45</LINE></mini_delay>
+  <loop_delay1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>49</LINE></loop_delay1>
+  <loop_delay2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Utils.asm</FILE><LINE>50</LINE></loop_delay2>
+  <Comparator_Disable><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Comparator.asm</FILE><LINE>64</LINE></Comparator_Disable>
+  <Timer_Stop><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer.asm</FILE><LINE>46</LINE></Timer_Stop>
+  <Analisis_Tactil><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>1</LINE></Analisis_Tactil>
+  <cap_1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>56</LINE></cap_1>
+  <cap_2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>22</LINE></cap_2>
+  <cap2_esta_en_bajo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>39</LINE></cap2_esta_en_bajo>
+  <cap2_esta_en_alto><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>28</LINE></cap2_esta_en_alto>
+  <output_low_bajada_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>35</LINE></output_low_bajada_cap2>
+  <guardar_estado_alto_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>36</LINE></guardar_estado_alto_cap2>
+  <continue><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>87</LINE></continue>
+  <guardar_estado_bajo_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>26</LINE></guardar_estado_bajo_cap2>
+  <output_low_subida_cap2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>48</LINE></output_low_subida_cap2>
+  <cap1_esta_en_bajo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>73</LINE></cap1_esta_en_bajo>
+  <cap1_esta_en_alto><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>62</LINE></cap1_esta_en_alto>
+  <output_low_bajada><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>69</LINE></output_low_bajada>
+  <guardar_estado_alto_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>14</LINE></guardar_estado_alto_cap1>
+  <guardar_estado_bajo_cap1><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>4</LINE></guardar_estado_bajo_cap1>
+  <output_low_subida><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\AnalisisTactil.asm</FILE><LINE>82</LINE></output_low_subida>
+  <analizar_sensor_en_reposo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>47</LINE></analizar_sensor_en_reposo>
+  <analizar_movimiento_encendido><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>78</LINE></analizar_movimiento_encendido>
+  <analizar_movimiento_apagado><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>136</LINE></analizar_movimiento_apagado>
+  <sensor_en_reposo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>62</LINE></sensor_en_reposo>
+  <setear_flags_reposo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>68</LINE></setear_flags_reposo>
+  <encendiendo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>100</LINE></encendiendo>
+  <en_reposo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>94</LINE></en_reposo>
+  <fuera_de_reposo_chekEnc><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>116</LINE></fuera_de_reposo_chekEnc>
+  <encender><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>108</LINE></encender>
+  <PWM_aumentar_intencidad><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE><LINE>31</LINE></PWM_aumentar_intencidad>
+  <set_flag_encendiendo><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>127</LINE></set_flag_encendiendo>
+  <apagando><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>158</LINE></apagando>
+  <en_reposo2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>152</LINE></en_reposo2>
+  <fuera_de_reposo_chekap><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>174</LINE></fuera_de_reposo_chekap>
+  <apagar><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>166</LINE></apagar>
+  <PWM_disminuir_intencidad><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE><LINE>53</LINE></PWM_disminuir_intencidad>
+  <set_flag_apagando><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\FuncionesTactiles.asm</FILE><LINE>185</LINE></set_flag_apagando>
+  <PuertoSerie_transmit><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\PuertoSerie.asm</FILE><LINE>32</LINE></PuertoSerie_transmit>
+  <loop_puerto_serie><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\PuertoSerie.asm</FILE><LINE>34</LINE></loop_puerto_serie>
+  <Timer1_Initialize><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer1.asm</FILE><LINE>15</LINE></Timer1_Initialize>
+  <Timer1_Start><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer1.asm</FILE><LINE>52</LINE></Timer1_Start>
+  <Timer1_Stop><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Timer1.asm</FILE><LINE>78</LINE></Timer1_Stop>
+  <fin_aumentar_intencidad><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE><LINE>45</LINE></fin_aumentar_intencidad>
+  <fin_disminuir_intencidad><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE><LINE>67</LINE></fin_disminuir_intencidad>
+  <fin_2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\pwm.asm</FILE><LINE>69</LINE></fin_2>
+  <setpuertodrive2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>6</LINE></setpuertodrive2>
+  <limppuertodrive2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>15</LINE></limppuertodrive2>
+  <setsentidodrive2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>25</LINE></setsentidodrive2>
+  <limpsentidodrive2><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\DriveTransitions.asm</FILE><LINE>34</LINE></limpsentidodrive2>
+  <CargaYDescarga><FILE>C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm</FILE><LINE>58</LINE></CargaYDescarga>
+ </LABELS>
+</ASSEMBLER_INFO>

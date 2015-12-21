@@ -1,0 +1,2 @@
+@ECHO OFF
+"F:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.hex" -d "C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.obj" -e "C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.eep" -m "C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\SensorCapacitivo.map" "C:\Users\Ultra Gamer\Desktop\tp-labo-micro\TP\Main.asm"

@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega88</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\tp-labo-micro</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m88def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.asm</FILE><LINE>4</LINE></main>
+  <delay><FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.asm</FILE><LINE>18</LINE></delay>
+  <delay1024ciclos><FILE>C:\Users\User\Desktop\tp-labo-micro\AprenderApagarLed.asm</FILE><LINE>24</LINE></delay1024ciclos>
+ </LABELS>
+</ASSEMBLER_INFO>
